@@ -9,5 +9,5 @@ Credit goes to Torstein Honsi (@highslide-software), creator of [Highcharts](htt
 * [jQuery appear v0.3.3](https://github.com/morr/jquery.appear/)
 
 ## Authors and Contributors
-Torstein Honsi (@highslide-software)
+Torstein Honsi (@highslide-software)  
 Sérgio Santos (@s3rgiosan)
